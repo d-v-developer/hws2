@@ -1,0 +1,41 @@
+.sendForm {
+    display: flex;
+    gap: 44px;
+    align-items: center;
+}
+
+.textarea {
+    width: 100%;
+    min-height: 40px;
+    border: 2px solid #06c;
+    border-radius: 20px;
+
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+
+    padding: 12px 24px;
+
+    overflow: hidden;
+    resize: none;
+}
+
+.button {
+    border-radius: 20px;
+    width: 120px;
+    height: 40px;
+    background: #06c;
+    border: none;
+
+    font-family: Montserrat, sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+    color: #fff;
+}
+
+.button:hover {
+
+}
+.button:active {
+
+}
